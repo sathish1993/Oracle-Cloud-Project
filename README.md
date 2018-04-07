@@ -11,6 +11,7 @@ Tools & Infrastructure:
 2. Hibernate
 3. Oracle Mysql Service
 4. Oracle Application container
+5. Bootstrap js
 
 To do:
 
