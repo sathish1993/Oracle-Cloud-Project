@@ -1,0 +1,17 @@
+{
+    "memory": "2G",
+    "instances": "2",  
+    "environment": {
+        "NO_OF_CONNECTIONS":"25"
+    },
+    "secureEnvironment": [ 
+        "user"
+    ],    
+    "services": [{
+        "identifier": "DBService",
+        "type": "DBAAS",
+        "name": "mysql",
+        "username": "root",
+        "password": "Dreamy@1LUrE"
+    }]
+}
