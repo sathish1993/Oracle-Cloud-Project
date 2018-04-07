@@ -20,3 +20,7 @@ Integrate Oracle storage classic to aplication
 Note:
 
 You may not be able to add new user or update existing, as it requires access rules in Mysql service.
+
+You can find basic running instance of application at
+
+https://paasdemo-gse00015177.uscom-east-1.oraclecloud.com/
